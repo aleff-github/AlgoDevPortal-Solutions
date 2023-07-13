@@ -1,6 +1,6 @@
 # AlgoDevPortal-Solutions
 
-My Algorand Developer Portal solutions
+My Algorand Developer Portal solutions, you must set your private key.
 
 - [ASA Rookie Python](https://github.com/aleff-github/AlgoDevPortal-Solutions/blob/main/Challenges/ASA%20Rookie%20Python.py)
 - [Atomic Transaction Rookie Python](https://github.com/aleff-github/AlgoDevPortal-Solutions/blob/main/Challenges/Atomic%20Transaction%20Rookie%20Python.py)
